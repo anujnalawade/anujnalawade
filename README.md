@@ -10,7 +10,6 @@ Computer Engineering Student
 * ✉️  You can contact me at [anujnalawade2828@gmail.com](mailto:anujnalawade2828@gmail.com)
 * 🧠  I'm learning C,C++,Python.
 * 🤝  I'm open to collaborating on Web design and App development .
-* ⚡  I'm secretly coding lover.......keep it secret.
 
 ### Skills
 
