@@ -1,4 +1,4 @@
-Hi 👋 My name is Anuj Nalawade
+Anuj Nalawade
 ==============================
 
 Computer Engineering Student
